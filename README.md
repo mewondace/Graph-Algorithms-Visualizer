@@ -1,18 +1,6 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://simplesnippets.tech/wp-content/uploads/2021/10/graph-ds-structure-example.jpg" alt="Logo" width="250" height="200">
-  </a>
 
-  <h3 align="center">Graph Algorithm Visualizer</h3>
-
-  <p align="center">
-    A web application to visualize Breadth First Search, Depth First Search and A* Search Algorithm on a grid.
-  </p>
-</div>
 
 <!-- ABOUT THE PROJECT -->
 ## Project Description
@@ -41,10 +29,9 @@ User can put obstacles between a source node and destination node over the empty
 <!-- CONTACT -->
 ## Contact
 
-Ritik Arora - [Linkedin](https://www.linkedin.com/in/ritik-arora-49b312197/) - ritikarora656@gmail.com
+Aishwary Nayak - [Linkedin]([[https://www.linkedin.com/in/aishwary-nayak1012/]](https://www.linkedin.com/in/aishwary-nayak1012/)) - yash.nayak1012@gmail.com
 
 Hosted Website: [https://visualize-graphically.netlify.app/](https://visualize-graphically.netlify.app/)
 <br>
-Project Link: [https://github.com/Ritik-Arora-576/Graph-Algorithms-Visualizer](https://github.com/Ritik-Arora-576/Graph-Algorithms-Visualizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
